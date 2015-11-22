@@ -1,0 +1,28 @@
+{
+  "name": "skype-event",
+  "version": "1.0.0",
+  "description": "EventEmitter wrapper for skyweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programmatical/skype-event.git"
+  },
+  "keywords": [
+    "skyweb",
+    "skype",
+    "webskype",
+    "skypeweb"
+  ],
+  "author": "Sean Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/programmatical/skype-event/issues"
+  },
+  "homepage": "https://github.com/programmatical/skype-event#readme",
+  "dependencies": {
+    "skyweb": "0.0.2"
+  }
+}
